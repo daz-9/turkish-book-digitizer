@@ -1,0 +1,20 @@
+# Secrets & local credentials
+.env
+*.json
+!data/*.json
+
+# Local OCR caches & virtual environments
+.ocr_cache/
+.vision_cache/
+.venv/
+__pycache__/
+*.pyc
+
+# Heavy binary inputs & generated books (host on archive.org / GitHub Releases)
+*.pdf
+*.epub
+
+# OS & editor files
+.DS_Store
+Thumbs.db
+*.log
