@@ -6,6 +6,7 @@ An automated Python pipeline to digitize public-domain historical Turkish books 
 
 | Title | Author | Year | Pages | Entries | Dataset | Archive / Binary | Notes |
 |---|---|---:|---:|---:|---|---|---|
+| *Osmanlıcadan Türkçeye Söz Karşılıkları: Tarama Dergisi (Cilt 2)* | Türk Dili Tetkik Cemiyeti (T.D.T.C.) | 1934 | 459 | 29,615 | [JSON](data/tarama_dergisi_cilt2_1934.json) / [CSV](data/tarama_dergisi_cilt2_1934.csv) | TBD (`archive.org` / Releases) | Unproofread 2-column Cloud Vision OCR (*Türkçeden Osmanlıcaya İndeks*) |
 | *Türkçeden Osmanlıcaya Cep Kılavuzu* | Türk Dil Kurumu (T.D.K.) | 1935 | 353 | 7,611 | [JSON](data/turkceden_osmanlicaya_cep_kilavuzu_1935.json) / [CSV](data/turkceden_osmanlicaya_cep_kilavuzu_1935.csv) | TBD (`archive.org` / Releases) | Unproofread Cloud Vision OCR; mixed Turkish, Ottoman Turkish, and French equivalents |
 
 See [catalog.csv](catalog.csv) for machine-readable metadata.

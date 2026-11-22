@@ -4,8 +4,8 @@
 !data/*.json
 
 # Local OCR caches & virtual environments
-.ocr_cache/
-.vision_cache/
+.ocr_cache*/
+.vision_cache*/
 .venv/
 __pycache__/
 *.pyc
